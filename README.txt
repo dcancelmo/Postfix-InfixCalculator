@@ -1,12 +1,12 @@
 Daniel Cancelmo
 Project 2
 CSC 172 - Professor Pawlicki
-Lab: Mon. & Wed. 12:30-1:45 | TAs: Willie Cohen & JP Castano
 I did not collaborate with anyone on this assignment.
 ReadMe file
 
 Instructions for running:
 To run this program, run from the command line using CalculatorTest.java (it contains the main method). After beginning the execution of the program (java CalculatorTest), when prompted, on a new line type the name of the input file first and the name of the output file second, separated by a space and press enter. The program will read the input file, convert to postfix, calculate the values, and then print to the console and write the result to the output file. Each expression should be on a separate line of the input file. Valid expressions can contain: +, -, *, /, ^, (, ), <, >, =, &, |, !, %. If an invalid expression is entered (such as dividing by zero) the user will be informed in the output file and the command line but the program will continue onto the next lines and attempt to calculate them.
+Note that % computes the modulo not the percentage.
 
 Extra credit:
 Calculator can handle modulo [%].
