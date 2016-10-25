@@ -1,0 +1,37 @@
+Daniel Cancelmo
+Project 2
+CSC 172 - Professor Pawlicki
+Lab: Mon. & Wed. 12:30-1:45 | TAs: Willie Cohen & JP Castano
+I did not collaborate with anyone on this assignment.
+Output file
+
+When executed, these files print the following to the terminal:
+
+Please type the input file name and the output file name seperated by a space:
+infix_expr_short.txt my_eval.txt
+2.0
+6.2
+6.2
+0.0
+4.2
+-4.2
+12.0
+16.0
+-8.0
+9.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+Program complete.

@@ -1,0 +1,6 @@
+1.0 
+0.0 
+0.0 
+1.0 
+Invalid arithmetic. Cannot compute value.
+Invalid arithmetic. Cannot compute value.
